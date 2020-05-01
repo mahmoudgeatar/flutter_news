@@ -1,4 +1,4 @@
-import 'package:clalc/shared_ui/drawer.dart';
+import 'package:News/shared_ui/drawer.dart';
 import 'package:flutter/material.dart';
 
 class twitterNews extends StatefulWidget {

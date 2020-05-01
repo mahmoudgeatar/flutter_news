@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:clalc/screens/tabs_screen/singlePost.dart';
+import 'package:News/screens/tabs_screen/singlePost.dart';
 import 'package:flutter/material.dart';
 
 class favourites extends StatefulWidget {
@@ -32,9 +32,14 @@ class _favouritesState extends State<favourites> {
           return Card(
             child: GestureDetector(
               onTap: () {
-                Navigator.push(context, MaterialPageRoute(builder: (context) {
-                  return singlePost();
-                }));
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) {
+                      return singlePost();
+                    },
+                  ),
+                );
               },
               child: Padding(
                 padding: const EdgeInsets.all(16),

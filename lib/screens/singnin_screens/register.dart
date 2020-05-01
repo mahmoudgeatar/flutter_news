@@ -1,4 +1,4 @@
-import 'package:clalc/screens/home_screen.dart';
+import 'package:News/screens/home_screen.dart';
 import 'package:flutter/material.dart';
 
 class registerScreen extends StatefulWidget {

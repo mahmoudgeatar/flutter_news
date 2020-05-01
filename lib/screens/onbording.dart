@@ -1,6 +1,6 @@
 import 'dart:core';
 
-import 'package:clalc/screens/home_screen.dart';
+import 'package:News/screens/home_screen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:page_view_indicator/page_view_indicator.dart';

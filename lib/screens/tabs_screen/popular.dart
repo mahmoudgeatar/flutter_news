@@ -1,4 +1,4 @@
-import 'package:clalc/screens/tabs_screen/singlePost.dart';
+import 'package:News/screens/tabs_screen/singlePost.dart';
 import 'package:flutter/material.dart';
 
 class popular extends StatefulWidget {

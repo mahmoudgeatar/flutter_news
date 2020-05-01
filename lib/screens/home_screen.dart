@@ -1,8 +1,8 @@
-import 'package:clalc/screens/tabs_screen/favourites.dart';
-import 'package:clalc/screens/tabs_screen/popular.dart';
-import 'package:clalc/screens/tabs_screen/whats_new.dart';
-import 'package:clalc/shared_ui/drawer.dart';
-import 'package:clalc/shared_ui/popUpMenu.dart';
+import 'package:News/screens/tabs_screen/favourites.dart';
+import 'package:News/screens/tabs_screen/popular.dart';
+import 'package:News/screens/tabs_screen/whats_new.dart';
+import 'package:News/shared_ui/drawer.dart';
+import 'package:News/shared_ui/popUpMenu.dart';
 import 'package:flutter/material.dart';
 
 class homeScreen extends StatefulWidget {

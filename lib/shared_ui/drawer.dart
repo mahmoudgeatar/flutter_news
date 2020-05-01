@@ -1,11 +1,11 @@
-import 'package:clalc/model/drawerMenu.dart';
-import 'package:clalc/screens/facebook_news.dart';
-import 'package:clalc/screens/headline_News.dart';
-import 'package:clalc/screens/home_screen.dart';
-import 'package:clalc/screens/instgram_news.dart';
-import 'package:clalc/screens/singnin_screens/login.dart';
-import 'package:clalc/screens/singnin_screens/logout.dart';
-import 'package:clalc/screens/twitter_news.dart';
+import 'package:News/model/drawerMenu.dart';
+import 'package:News/screens/facebook_news.dart';
+import 'package:News/screens/headline_News.dart';
+import 'package:News/screens/home_screen.dart';
+import 'package:News/screens/instgram_news.dart';
+import 'package:News/screens/singnin_screens/login.dart';
+import 'package:News/screens/singnin_screens/logout.dart';
+import 'package:News/screens/twitter_news.dart';
 import 'package:flutter/material.dart';
 
 class NavigationDrawer extends StatefulWidget {

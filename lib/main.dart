@@ -1,6 +1,6 @@
-import 'package:clalc/screens/home_screen.dart';
-import 'package:clalc/screens/onbording.dart';
-import 'package:clalc/shared_ui/appTheme.dart';
+import 'package:News/screens/home_screen.dart';
+import 'package:News/screens/onbording.dart';
+import 'package:News/shared_ui/appTheme.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

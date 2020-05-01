@@ -1,5 +1,5 @@
-import 'package:clalc/screens/home_screen.dart';
-import 'package:clalc/screens/singnin_screens/register.dart';
+import 'package:News/screens/home_screen.dart';
+import 'package:News/screens/singnin_screens/register.dart';
 import 'package:flutter/material.dart';
 
 class loginScreen extends StatefulWidget {

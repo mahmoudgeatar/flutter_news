@@ -1,7 +1,7 @@
-import 'package:clalc/screens/popup_screen/about.dart';
-import 'package:clalc/screens/popup_screen/contact.dart';
-import 'package:clalc/screens/popup_screen/help.dart';
-import 'package:clalc/screens/popup_screen/setting.dart';
+import 'package:News/screens/popup_screen/about.dart';
+import 'package:News/screens/popup_screen/contact.dart';
+import 'package:News/screens/popup_screen/help.dart';
+import 'package:News/screens/popup_screen/setting.dart';
 import 'package:flutter/material.dart';
 
 class popupMenu extends StatefulWidget {
